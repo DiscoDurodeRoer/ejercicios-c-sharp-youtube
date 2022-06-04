@@ -1,0 +1,5 @@
+1. Crea dos numericUpDown para insertar dos operandos.
+
+Con 4 botones (suma, resta, multiplicacion, division) realiza su operacion correspondiente.
+
+Muestra el resultado en un textbox.

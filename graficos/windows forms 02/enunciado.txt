@@ -1,0 +1,3 @@
+2. Crea una interfaz con 6 campos de texto y un boton.
+
+Cuando pulsemos el boton, debemos generar 6 numeros aleatorios y mostrarlos en cada uno de los campos.

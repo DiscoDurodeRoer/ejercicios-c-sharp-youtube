@@ -1,0 +1,10 @@
+D:\proyectos C#\graficos2\graficos2\bin\Debug\graficos2.exe.config
+D:\proyectos C#\graficos2\graficos2\bin\Debug\graficos2.exe
+D:\proyectos C#\graficos2\graficos2\bin\Debug\graficos2.pdb
+D:\proyectos C#\graficos2\graficos2\obj\Debug\graficos2.csprojAssemblyReference.cache
+D:\proyectos C#\graficos2\graficos2\obj\Debug\graficos2.Form1.resources
+D:\proyectos C#\graficos2\graficos2\obj\Debug\graficos2.Properties.Resources.resources
+D:\proyectos C#\graficos2\graficos2\obj\Debug\graficos2.csproj.GenerateResource.cache
+D:\proyectos C#\graficos2\graficos2\obj\Debug\graficos2.csproj.CoreCompileInputs.cache
+D:\proyectos C#\graficos2\graficos2\obj\Debug\graficos2.exe
+D:\proyectos C#\graficos2\graficos2\obj\Debug\graficos2.pdb

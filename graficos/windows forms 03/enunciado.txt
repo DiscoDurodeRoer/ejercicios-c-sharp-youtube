@@ -1,0 +1,5 @@
+3. Crea una tabla con datos de personas (nombre, apellido y edad).
+
+Añadir textos para poder añadir personas.
+
+Añade un boton para eliminar.
