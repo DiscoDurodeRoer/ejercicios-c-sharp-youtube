@@ -1,0 +1,8 @@
+
+  4. Pedir dos números al usuario por teclado y decir que número es el mayor.
+
+  5. Pedir el nombre de la semana al usuario y decirle si es fin de semana o no. 
+     En caso de error, indicarlo.
+
+  6. Pedir al usuario el precio de un producto (valor positivo) y la forma de pagar (efectivo o tarjeta)
+     si la forma de pago es mediante tarjeta, pedir el numero de cuenta (inventado)

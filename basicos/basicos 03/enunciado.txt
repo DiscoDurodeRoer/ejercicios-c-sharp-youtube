@@ -1,0 +1,7 @@
+﻿7. Recorre los números del 1 al 100. Usa un bucle while.
+
+8. Recorre los números del 1 al 100. Usa un bucle for.
+
+9. Recorre los números del 1 al 100. Muestra los números pares.
+
+10. Recorre los números del 1 al 100. Muestra los números pares o divisibles entre 3.

@@ -1,0 +1,5 @@
+11. Pide una frase y recorrela caracter a caracter.
+
+12. Pide una frase y muestrala sin espacios.
+
+13. Pide una frase y muestrala con todos sus caracteres en mayusculas.

@@ -1,0 +1,6 @@
+D:\proyectos C#\ejercicio_basicos_DDR_12\ejercicio_basicos_DDR_12\bin\Debug\ejercicio_basicos_DDR_12.exe.config
+D:\proyectos C#\ejercicio_basicos_DDR_12\ejercicio_basicos_DDR_12\bin\Debug\ejercicio_basicos_DDR_12.exe
+D:\proyectos C#\ejercicio_basicos_DDR_12\ejercicio_basicos_DDR_12\bin\Debug\ejercicio_basicos_DDR_12.pdb
+D:\proyectos C#\ejercicio_basicos_DDR_12\ejercicio_basicos_DDR_12\obj\Debug\ejercicio_basicos_DDR_12.csproj.CoreCompileInputs.cache
+D:\proyectos C#\ejercicio_basicos_DDR_12\ejercicio_basicos_DDR_12\obj\Debug\ejercicio_basicos_DDR_12.exe
+D:\proyectos C#\ejercicio_basicos_DDR_12\ejercicio_basicos_DDR_12\obj\Debug\ejercicio_basicos_DDR_12.pdb

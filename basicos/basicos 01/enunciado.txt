@@ -1,0 +1,8 @@
+1. Crear 3 variables numericas con el valor que tu quieras y en otra variable númerica guardar el valor de
+la suma de las 3 anteriores. Mostrar por consola.
+
+2. Pedir por consola un nombre de persona y el nombre de una ciudad (no hace falta que sean reales o comprobarlos)
+y mostrar por pantalla, el siguiente mensaje "Hola " <nombre> " bienvenido a " <ciudad>
+
+3. Pedir por consola tu nombre y tu edad y mostrar el siguiente mensaje:
+"Te llamas " <nombre> " y tienes " <años> " años"

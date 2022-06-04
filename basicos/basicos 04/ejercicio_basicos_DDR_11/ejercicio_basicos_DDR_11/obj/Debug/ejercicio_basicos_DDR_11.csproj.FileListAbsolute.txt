@@ -1,0 +1,7 @@
+D:\proyectos C#\ejercicio_basicos_DDR_11\ejercicio_basicos_DDR_11\bin\Debug\ejercicio_basicos_DDR_11.exe.config
+D:\proyectos C#\ejercicio_basicos_DDR_11\ejercicio_basicos_DDR_11\bin\Debug\ejercicio_basicos_DDR_11.exe
+D:\proyectos C#\ejercicio_basicos_DDR_11\ejercicio_basicos_DDR_11\bin\Debug\ejercicio_basicos_DDR_11.pdb
+D:\proyectos C#\ejercicio_basicos_DDR_11\ejercicio_basicos_DDR_11\obj\Debug\ejercicio_basicos_DDR_11.csprojAssemblyReference.cache
+D:\proyectos C#\ejercicio_basicos_DDR_11\ejercicio_basicos_DDR_11\obj\Debug\ejercicio_basicos_DDR_11.csproj.CoreCompileInputs.cache
+D:\proyectos C#\ejercicio_basicos_DDR_11\ejercicio_basicos_DDR_11\obj\Debug\ejercicio_basicos_DDR_11.exe
+D:\proyectos C#\ejercicio_basicos_DDR_11\ejercicio_basicos_DDR_11\obj\Debug\ejercicio_basicos_DDR_11.pdb

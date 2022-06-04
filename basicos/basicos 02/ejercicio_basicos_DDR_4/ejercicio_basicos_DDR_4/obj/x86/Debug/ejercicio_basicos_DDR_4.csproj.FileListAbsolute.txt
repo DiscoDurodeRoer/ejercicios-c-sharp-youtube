@@ -1,0 +1,4 @@
+D:\proyectos C#\ejercicio_basicos_DDR_4\ejercicio_basicos_DDR_4\bin\Debug\ejercicio_basicos_DDR_4.exe
+D:\proyectos C#\ejercicio_basicos_DDR_4\ejercicio_basicos_DDR_4\bin\Debug\ejercicio_basicos_DDR_4.pdb
+D:\proyectos C#\ejercicio_basicos_DDR_4\ejercicio_basicos_DDR_4\obj\x86\Debug\ejercicio_basicos_DDR_4.exe
+D:\proyectos C#\ejercicio_basicos_DDR_4\ejercicio_basicos_DDR_4\obj\x86\Debug\ejercicio_basicos_DDR_4.pdb

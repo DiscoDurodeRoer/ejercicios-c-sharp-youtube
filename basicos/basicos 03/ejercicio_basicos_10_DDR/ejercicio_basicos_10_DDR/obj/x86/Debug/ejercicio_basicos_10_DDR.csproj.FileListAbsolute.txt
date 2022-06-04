@@ -1,0 +1,4 @@
+D:\videos DDR\C#\videos sin editar\basicos#3\ejercicio_basicos_10_DDR\ejercicio_basicos_10_DDR\bin\Debug\ejercicio_basicos_10_DDR.exe
+D:\videos DDR\C#\videos sin editar\basicos#3\ejercicio_basicos_10_DDR\ejercicio_basicos_10_DDR\bin\Debug\ejercicio_basicos_10_DDR.pdb
+D:\videos DDR\C#\videos sin editar\basicos#3\ejercicio_basicos_10_DDR\ejercicio_basicos_10_DDR\obj\x86\Debug\ejercicio_basicos_10_DDR.exe
+D:\videos DDR\C#\videos sin editar\basicos#3\ejercicio_basicos_10_DDR\ejercicio_basicos_10_DDR\obj\x86\Debug\ejercicio_basicos_10_DDR.pdb

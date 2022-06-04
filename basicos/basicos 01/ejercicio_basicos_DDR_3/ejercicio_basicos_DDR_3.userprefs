@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="ejercicio_basicos_DDR_3\ejercicio_basicos_DDR_3.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ejercicio_basicos_DDR_3\Program.cs">
+    <Files>
+      <File FileName="ejercicio_basicos_DDR_3\Program.cs" Line="15" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
