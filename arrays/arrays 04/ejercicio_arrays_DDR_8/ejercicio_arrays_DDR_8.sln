@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio_arrays_DDR_8", "ejercicio_arrays_DDR_8\ejercicio_arrays_DDR_8.csproj", "{EEAA8DEC-0E20-4640-A3D5-4E0EAE126A60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEAA8DEC-0E20-4640-A3D5-4E0EAE126A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEAA8DEC-0E20-4640-A3D5-4E0EAE126A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEAA8DEC-0E20-4640-A3D5-4E0EAE126A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEAA8DEC-0E20-4640-A3D5-4E0EAE126A60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {237458DD-5498-4504-B3EF-466CFB94283D}
+	EndGlobalSection
+EndGlobal

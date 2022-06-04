@@ -1,0 +1,5 @@
+3. Sumar los valores de un array y mostrar el resultado.
+
+4. Hacer la media de los valores de un array y mostrar el resultado.
+
+5. Pedir un numero por teclado y multiplicar todos los valores de un array y mostrar el array.

@@ -1,0 +1,3 @@
+1. Crea un array de 10 posiciones, con valores puestos por ti y muestra el array.
+
+2. Crea un array de 10 posiciones, pide los valores por consola y muestra el array.

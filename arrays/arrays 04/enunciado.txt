@@ -1,0 +1,3 @@
+8. Genera dos arrays con valores aleatorios e indica cuantos valores coinciden.
+
+Si aciertas 3 o mas, se mostrara ademas por pantalla un mensaje dandole las felicitaciones.

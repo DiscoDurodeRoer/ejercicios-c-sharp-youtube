@@ -1,0 +1,7 @@
+D:\proyectos C#\ejercicio_arrays_DDR_1\ejercicio_arrays_DDR_1\bin\Debug\ejercicio_arrays_DDR_1.exe.config
+D:\proyectos C#\ejercicio_arrays_DDR_1\ejercicio_arrays_DDR_1\bin\Debug\ejercicio_arrays_DDR_1.exe
+D:\proyectos C#\ejercicio_arrays_DDR_1\ejercicio_arrays_DDR_1\bin\Debug\ejercicio_arrays_DDR_1.pdb
+D:\proyectos C#\ejercicio_arrays_DDR_1\ejercicio_arrays_DDR_1\obj\Debug\ejercicio_arrays_DDR_1.csprojAssemblyReference.cache
+D:\proyectos C#\ejercicio_arrays_DDR_1\ejercicio_arrays_DDR_1\obj\Debug\ejercicio_arrays_DDR_1.csproj.CoreCompileInputs.cache
+D:\proyectos C#\ejercicio_arrays_DDR_1\ejercicio_arrays_DDR_1\obj\Debug\ejercicio_arrays_DDR_1.exe
+D:\proyectos C#\ejercicio_arrays_DDR_1\ejercicio_arrays_DDR_1\obj\Debug\ejercicio_arrays_DDR_1.pdb

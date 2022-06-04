@@ -1,0 +1,7 @@
+D:\programacion\C#\ejercicio_arrays_DDR_8\ejercicio_arrays_DDR_8\bin\Debug\ejercicio_arrays_DDR_8.exe.config
+D:\programacion\C#\ejercicio_arrays_DDR_8\ejercicio_arrays_DDR_8\bin\Debug\ejercicio_arrays_DDR_8.exe
+D:\programacion\C#\ejercicio_arrays_DDR_8\ejercicio_arrays_DDR_8\bin\Debug\ejercicio_arrays_DDR_8.pdb
+D:\programacion\C#\ejercicio_arrays_DDR_8\ejercicio_arrays_DDR_8\obj\Debug\ejercicio_arrays_DDR_8.csprojAssemblyReference.cache
+D:\programacion\C#\ejercicio_arrays_DDR_8\ejercicio_arrays_DDR_8\obj\Debug\ejercicio_arrays_DDR_8.csproj.CoreCompileInputs.cache
+D:\programacion\C#\ejercicio_arrays_DDR_8\ejercicio_arrays_DDR_8\obj\Debug\ejercicio_arrays_DDR_8.exe
+D:\programacion\C#\ejercicio_arrays_DDR_8\ejercicio_arrays_DDR_8\obj\Debug\ejercicio_arrays_DDR_8.pdb
