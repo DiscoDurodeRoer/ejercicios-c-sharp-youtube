@@ -1,0 +1,7 @@
+D:\proyectos C#\Ficheros2\Ficheros2\bin\Debug\Ficheros2.exe.config
+D:\proyectos C#\Ficheros2\Ficheros2\bin\Debug\Ficheros2.exe
+D:\proyectos C#\Ficheros2\Ficheros2\bin\Debug\Ficheros2.pdb
+D:\proyectos C#\Ficheros2\Ficheros2\obj\Debug\Ficheros2.csprojAssemblyReference.cache
+D:\proyectos C#\Ficheros2\Ficheros2\obj\Debug\Ficheros2.csproj.CoreCompileInputs.cache
+D:\proyectos C#\Ficheros2\Ficheros2\obj\Debug\Ficheros2.exe
+D:\proyectos C#\Ficheros2\Ficheros2\obj\Debug\Ficheros2.pdb
