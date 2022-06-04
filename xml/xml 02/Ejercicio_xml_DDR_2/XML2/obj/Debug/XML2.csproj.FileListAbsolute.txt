@@ -1,0 +1,7 @@
+D:\proyectos C#\XML2\XML2\bin\Debug\XML2.exe.config
+D:\proyectos C#\XML2\XML2\bin\Debug\XML2.exe
+D:\proyectos C#\XML2\XML2\bin\Debug\XML2.pdb
+D:\proyectos C#\XML2\XML2\obj\Debug\XML2.csprojAssemblyReference.cache
+D:\proyectos C#\XML2\XML2\obj\Debug\XML2.csproj.CoreCompileInputs.cache
+D:\proyectos C#\XML2\XML2\obj\Debug\XML2.exe
+D:\proyectos C#\XML2\XML2\obj\Debug\XML2.pdb
