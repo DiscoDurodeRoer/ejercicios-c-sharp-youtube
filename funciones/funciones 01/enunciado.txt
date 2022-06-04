@@ -1,0 +1,5 @@
+1. Crea una función que nos salude, pasandole un nombre por parámetro.
+
+2. Crea una función que sume dos números pasados por parámetros, devolverá el resultado.
+
+3. Crea una función que clacule el factorial de un número.

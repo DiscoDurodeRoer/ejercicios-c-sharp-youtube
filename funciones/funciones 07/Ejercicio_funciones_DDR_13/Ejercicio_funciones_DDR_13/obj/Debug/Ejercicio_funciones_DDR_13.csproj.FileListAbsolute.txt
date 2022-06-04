@@ -1,0 +1,7 @@
+D:\proyectos C#\Ejercicio_funciones_DDR_13\Ejercicio_funciones_DDR_13\bin\Debug\Ejercicio_funciones_DDR_13.exe.config
+D:\proyectos C#\Ejercicio_funciones_DDR_13\Ejercicio_funciones_DDR_13\bin\Debug\Ejercicio_funciones_DDR_13.exe
+D:\proyectos C#\Ejercicio_funciones_DDR_13\Ejercicio_funciones_DDR_13\bin\Debug\Ejercicio_funciones_DDR_13.pdb
+D:\proyectos C#\Ejercicio_funciones_DDR_13\Ejercicio_funciones_DDR_13\obj\Debug\Ejercicio_funciones_DDR_13.csprojAssemblyReference.cache
+D:\proyectos C#\Ejercicio_funciones_DDR_13\Ejercicio_funciones_DDR_13\obj\Debug\Ejercicio_funciones_DDR_13.csproj.CoreCompileInputs.cache
+D:\proyectos C#\Ejercicio_funciones_DDR_13\Ejercicio_funciones_DDR_13\obj\Debug\Ejercicio_funciones_DDR_13.exe
+D:\proyectos C#\Ejercicio_funciones_DDR_13\Ejercicio_funciones_DDR_13\obj\Debug\Ejercicio_funciones_DDR_13.pdb

@@ -1,0 +1,7 @@
+11. Crea una función que devuelva el número mayor de un array.
+
+12. Crea una función que devuelva el número menor de un array.
+
+13. Crea una función que devuelva la posición del número mayor de un array.
+
+14. Crea una función que devuelva la posición del número menor de un array.

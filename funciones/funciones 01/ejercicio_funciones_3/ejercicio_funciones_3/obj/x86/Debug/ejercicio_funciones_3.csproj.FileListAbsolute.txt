@@ -1,0 +1,4 @@
+D:\proyectos C#\ejercicio_funciones_3\ejercicio_funciones_3\bin\Debug\ejercicio_funciones_3.exe
+D:\proyectos C#\ejercicio_funciones_3\ejercicio_funciones_3\bin\Debug\ejercicio_funciones_3.pdb
+D:\proyectos C#\ejercicio_funciones_3\ejercicio_funciones_3\obj\x86\Debug\ejercicio_funciones_3.exe
+D:\proyectos C#\ejercicio_funciones_3\ejercicio_funciones_3\obj\x86\Debug\ejercicio_funciones_3.pdb

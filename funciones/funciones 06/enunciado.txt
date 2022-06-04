@@ -1,0 +1,1 @@
+12. Realiza una función que dado un numero y dos bases. Que convierta un numero a otra base.

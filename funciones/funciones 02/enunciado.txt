@@ -1,0 +1,5 @@
+4. Crea una función que muestre un array.
+
+5. Crea una función que devuelva la suma de un array.
+
+6. Crea una función que devuelva la media de un array.

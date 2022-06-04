@@ -1,0 +1,7 @@
+D:\proyectos C#\Funciones6\Funciones6\bin\Debug\Funciones6.exe.config
+D:\proyectos C#\Funciones6\Funciones6\bin\Debug\Funciones6.exe
+D:\proyectos C#\Funciones6\Funciones6\bin\Debug\Funciones6.pdb
+D:\proyectos C#\Funciones6\Funciones6\obj\Debug\Funciones6.csprojAssemblyReference.cache
+D:\proyectos C#\Funciones6\Funciones6\obj\Debug\Funciones6.csproj.CoreCompileInputs.cache
+D:\proyectos C#\Funciones6\Funciones6\obj\Debug\Funciones6.exe
+D:\proyectos C#\Funciones6\Funciones6\obj\Debug\Funciones6.pdb

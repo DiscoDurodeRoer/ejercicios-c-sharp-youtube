@@ -1,0 +1,7 @@
+D:\proyectos C#\Ejercicio_funciones_DDR_9\Ejercicio_funciones_DDR_9\bin\Debug\Ejercicio_funciones_DDR_9.exe.config
+D:\proyectos C#\Ejercicio_funciones_DDR_9\Ejercicio_funciones_DDR_9\bin\Debug\Ejercicio_funciones_DDR_9.exe
+D:\proyectos C#\Ejercicio_funciones_DDR_9\Ejercicio_funciones_DDR_9\bin\Debug\Ejercicio_funciones_DDR_9.pdb
+D:\proyectos C#\Ejercicio_funciones_DDR_9\Ejercicio_funciones_DDR_9\obj\Debug\Ejercicio_funciones_DDR_9.csprojAssemblyReference.cache
+D:\proyectos C#\Ejercicio_funciones_DDR_9\Ejercicio_funciones_DDR_9\obj\Debug\Ejercicio_funciones_DDR_9.csproj.CoreCompileInputs.cache
+D:\proyectos C#\Ejercicio_funciones_DDR_9\Ejercicio_funciones_DDR_9\obj\Debug\Ejercicio_funciones_DDR_9.exe
+D:\proyectos C#\Ejercicio_funciones_DDR_9\Ejercicio_funciones_DDR_9\obj\Debug\Ejercicio_funciones_DDR_9.pdb

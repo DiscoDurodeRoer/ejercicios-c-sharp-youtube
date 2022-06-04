@@ -1,0 +1,3 @@
+11. Dado un numero decimal, pasalo a octal y viceversa.
+
+12. Dado un numero decimal, pasalo a hexadecimal y viceversa.

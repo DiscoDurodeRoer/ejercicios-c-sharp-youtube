@@ -1,0 +1,7 @@
+D:\proyectos C#\ejercicio_funciones_DDR_7\ejercicio_funciones_DDR_7\bin\Debug\ejercicio_funciones_DDR_7.exe.config
+D:\proyectos C#\ejercicio_funciones_DDR_7\ejercicio_funciones_DDR_7\bin\Debug\ejercicio_funciones_DDR_7.exe
+D:\proyectos C#\ejercicio_funciones_DDR_7\ejercicio_funciones_DDR_7\bin\Debug\ejercicio_funciones_DDR_7.pdb
+D:\proyectos C#\ejercicio_funciones_DDR_7\ejercicio_funciones_DDR_7\obj\Debug\ejercicio_funciones_DDR_7.csprojAssemblyReference.cache
+D:\proyectos C#\ejercicio_funciones_DDR_7\ejercicio_funciones_DDR_7\obj\Debug\ejercicio_funciones_DDR_7.csproj.CoreCompileInputs.cache
+D:\proyectos C#\ejercicio_funciones_DDR_7\ejercicio_funciones_DDR_7\obj\Debug\ejercicio_funciones_DDR_7.exe
+D:\proyectos C#\ejercicio_funciones_DDR_7\ejercicio_funciones_DDR_7\obj\Debug\ejercicio_funciones_DDR_7.pdb

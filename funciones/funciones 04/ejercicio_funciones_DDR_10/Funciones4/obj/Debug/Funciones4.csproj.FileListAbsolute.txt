@@ -1,0 +1,7 @@
+D:\proyectos C#\Funciones4\Funciones4\bin\Debug\Funciones4.exe.config
+D:\proyectos C#\Funciones4\Funciones4\bin\Debug\Funciones4.exe
+D:\proyectos C#\Funciones4\Funciones4\bin\Debug\Funciones4.pdb
+D:\proyectos C#\Funciones4\Funciones4\obj\Debug\Funciones4.csprojAssemblyReference.cache
+D:\proyectos C#\Funciones4\Funciones4\obj\Debug\Funciones4.csproj.CoreCompileInputs.cache
+D:\proyectos C#\Funciones4\Funciones4\obj\Debug\Funciones4.exe
+D:\proyectos C#\Funciones4\Funciones4\obj\Debug\Funciones4.pdb

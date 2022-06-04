@@ -1,0 +1,3 @@
+10. Dado un numero decimal, pasalo a binario. 
+
+Haz otra función que dado un binario, nos devuelva su numero decimal.

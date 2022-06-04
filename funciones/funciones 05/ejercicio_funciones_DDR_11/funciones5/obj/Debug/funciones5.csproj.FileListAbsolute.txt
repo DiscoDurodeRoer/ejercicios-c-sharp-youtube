@@ -1,0 +1,7 @@
+D:\proyectos C#\funciones5\funciones5\bin\Debug\funciones5.exe.config
+D:\proyectos C#\funciones5\funciones5\bin\Debug\funciones5.exe
+D:\proyectos C#\funciones5\funciones5\bin\Debug\funciones5.pdb
+D:\proyectos C#\funciones5\funciones5\obj\Debug\funciones5.csprojAssemblyReference.cache
+D:\proyectos C#\funciones5\funciones5\obj\Debug\funciones5.csproj.CoreCompileInputs.cache
+D:\proyectos C#\funciones5\funciones5\obj\Debug\funciones5.exe
+D:\proyectos C#\funciones5\funciones5\obj\Debug\funciones5.pdb

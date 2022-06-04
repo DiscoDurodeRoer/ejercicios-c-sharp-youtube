@@ -1,0 +1,5 @@
+7. Rellenar una matriz pasada por parametro con un valor dado.
+
+8. Mostrar una matriz pasada por parametro.
+
+9. Indicar si una posicion (fila y columna) esta dentro de una matriz.

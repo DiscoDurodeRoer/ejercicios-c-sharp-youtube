@@ -1,0 +1,4 @@
+D:\proyectos C#\ejercicio_funciones_2\ejercicio_funciones_2\bin\Debug\ejercicio_funciones_2.exe
+D:\proyectos C#\ejercicio_funciones_2\ejercicio_funciones_2\bin\Debug\ejercicio_funciones_2.pdb
+D:\proyectos C#\ejercicio_funciones_2\ejercicio_funciones_2\obj\x86\Debug\ejercicio_funciones_2.exe
+D:\proyectos C#\ejercicio_funciones_2\ejercicio_funciones_2\obj\x86\Debug\ejercicio_funciones_2.pdb

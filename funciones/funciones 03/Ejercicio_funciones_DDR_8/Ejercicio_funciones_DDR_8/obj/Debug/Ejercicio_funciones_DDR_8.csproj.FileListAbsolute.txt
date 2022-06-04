@@ -1,0 +1,7 @@
+D:\proyectos C#\Ejercicio_funciones_DDR_8\Ejercicio_funciones_DDR_8\bin\Debug\Ejercicio_funciones_DDR_8.exe.config
+D:\proyectos C#\Ejercicio_funciones_DDR_8\Ejercicio_funciones_DDR_8\bin\Debug\Ejercicio_funciones_DDR_8.exe
+D:\proyectos C#\Ejercicio_funciones_DDR_8\Ejercicio_funciones_DDR_8\bin\Debug\Ejercicio_funciones_DDR_8.pdb
+D:\proyectos C#\Ejercicio_funciones_DDR_8\Ejercicio_funciones_DDR_8\obj\Debug\Ejercicio_funciones_DDR_8.csprojAssemblyReference.cache
+D:\proyectos C#\Ejercicio_funciones_DDR_8\Ejercicio_funciones_DDR_8\obj\Debug\Ejercicio_funciones_DDR_8.csproj.CoreCompileInputs.cache
+D:\proyectos C#\Ejercicio_funciones_DDR_8\Ejercicio_funciones_DDR_8\obj\Debug\Ejercicio_funciones_DDR_8.exe
+D:\proyectos C#\Ejercicio_funciones_DDR_8\Ejercicio_funciones_DDR_8\obj\Debug\Ejercicio_funciones_DDR_8.pdb

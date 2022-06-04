@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_funciones_DDR_15", "Ejercicio_funciones_DDR_15\Ejercicio_funciones_DDR_15.csproj", "{6AF7670E-5343-48A3-8029-51D397069CFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AF7670E-5343-48A3-8029-51D397069CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF7670E-5343-48A3-8029-51D397069CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF7670E-5343-48A3-8029-51D397069CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF7670E-5343-48A3-8029-51D397069CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEDED498-3FCA-4697-99CF-6F2A406F1FE1}
+	EndGlobalSection
+EndGlobal

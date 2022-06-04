@@ -1,0 +1,6 @@
+D:\proyectos C#\Ejercicio_funciones_DDR_14\Ejercicio_funciones_DDR_14\bin\Debug\Ejercicio_funciones_DDR_14.exe.config
+D:\proyectos C#\Ejercicio_funciones_DDR_14\Ejercicio_funciones_DDR_14\bin\Debug\Ejercicio_funciones_DDR_14.exe
+D:\proyectos C#\Ejercicio_funciones_DDR_14\Ejercicio_funciones_DDR_14\bin\Debug\Ejercicio_funciones_DDR_14.pdb
+D:\proyectos C#\Ejercicio_funciones_DDR_14\Ejercicio_funciones_DDR_14\obj\Debug\Ejercicio_funciones_DDR_14.csproj.CoreCompileInputs.cache
+D:\proyectos C#\Ejercicio_funciones_DDR_14\Ejercicio_funciones_DDR_14\obj\Debug\Ejercicio_funciones_DDR_14.exe
+D:\proyectos C#\Ejercicio_funciones_DDR_14\Ejercicio_funciones_DDR_14\obj\Debug\Ejercicio_funciones_DDR_14.pdb

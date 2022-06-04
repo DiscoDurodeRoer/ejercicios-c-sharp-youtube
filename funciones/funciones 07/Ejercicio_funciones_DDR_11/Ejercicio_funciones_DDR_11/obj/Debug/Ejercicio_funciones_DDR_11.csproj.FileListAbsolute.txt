@@ -1,0 +1,7 @@
+D:\proyectos C#\Ejercicio_funciones_DDR_11\Ejercicio_funciones_DDR_11\bin\Debug\Ejercicio_funciones_DDR_11.exe.config
+D:\proyectos C#\Ejercicio_funciones_DDR_11\Ejercicio_funciones_DDR_11\bin\Debug\Ejercicio_funciones_DDR_11.exe
+D:\proyectos C#\Ejercicio_funciones_DDR_11\Ejercicio_funciones_DDR_11\bin\Debug\Ejercicio_funciones_DDR_11.pdb
+D:\proyectos C#\Ejercicio_funciones_DDR_11\Ejercicio_funciones_DDR_11\obj\Debug\Ejercicio_funciones_DDR_11.csprojAssemblyReference.cache
+D:\proyectos C#\Ejercicio_funciones_DDR_11\Ejercicio_funciones_DDR_11\obj\Debug\Ejercicio_funciones_DDR_11.csproj.CoreCompileInputs.cache
+D:\proyectos C#\Ejercicio_funciones_DDR_11\Ejercicio_funciones_DDR_11\obj\Debug\Ejercicio_funciones_DDR_11.exe
+D:\proyectos C#\Ejercicio_funciones_DDR_11\Ejercicio_funciones_DDR_11\obj\Debug\Ejercicio_funciones_DDR_11.pdb
