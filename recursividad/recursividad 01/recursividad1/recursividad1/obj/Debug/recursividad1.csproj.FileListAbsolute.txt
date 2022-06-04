@@ -1,0 +1,14 @@
+D:\videos DDR\C#\videos sin editar\recursividad1\recursividad1\recursividad1\bin\Debug\recursividad1.exe.config
+D:\videos DDR\C#\videos sin editar\recursividad1\recursividad1\recursividad1\bin\Debug\recursividad1.exe
+D:\videos DDR\C#\videos sin editar\recursividad1\recursividad1\recursividad1\bin\Debug\recursividad1.pdb
+D:\videos DDR\C#\videos sin editar\recursividad1\recursividad1\recursividad1\obj\Debug\recursividad1.csprojAssemblyReference.cache
+D:\videos DDR\C#\videos sin editar\recursividad1\recursividad1\recursividad1\obj\Debug\recursividad1.csproj.CoreCompileInputs.cache
+D:\videos DDR\C#\videos sin editar\recursividad1\recursividad1\recursividad1\obj\Debug\recursividad1.exe
+D:\videos DDR\C#\videos sin editar\recursividad1\recursividad1\recursividad1\obj\Debug\recursividad1.pdb
+D:\proyectos C#\recursividad1\recursividad1\bin\Debug\recursividad1.exe.config
+D:\proyectos C#\recursividad1\recursividad1\bin\Debug\recursividad1.exe
+D:\proyectos C#\recursividad1\recursividad1\bin\Debug\recursividad1.pdb
+D:\proyectos C#\recursividad1\recursividad1\obj\Debug\recursividad1.csprojAssemblyReference.cache
+D:\proyectos C#\recursividad1\recursividad1\obj\Debug\recursividad1.csproj.CoreCompileInputs.cache
+D:\proyectos C#\recursividad1\recursividad1\obj\Debug\recursividad1.exe
+D:\proyectos C#\recursividad1\recursividad1\obj\Debug\recursividad1.pdb

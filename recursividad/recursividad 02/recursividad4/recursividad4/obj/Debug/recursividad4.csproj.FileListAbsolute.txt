@@ -1,0 +1,7 @@
+D:\proyectos C#\recursividad4\recursividad4\bin\Debug\recursividad4.exe.config
+D:\proyectos C#\recursividad4\recursividad4\bin\Debug\recursividad4.exe
+D:\proyectos C#\recursividad4\recursividad4\bin\Debug\recursividad4.pdb
+D:\proyectos C#\recursividad4\recursividad4\obj\Debug\recursividad4.csproj.CoreCompileInputs.cache
+D:\proyectos C#\recursividad4\recursividad4\obj\Debug\recursividad4.exe
+D:\proyectos C#\recursividad4\recursividad4\obj\Debug\recursividad4.pdb
+D:\proyectos C#\recursividad4\recursividad4\obj\Debug\recursividad4.csprojAssemblyReference.cache

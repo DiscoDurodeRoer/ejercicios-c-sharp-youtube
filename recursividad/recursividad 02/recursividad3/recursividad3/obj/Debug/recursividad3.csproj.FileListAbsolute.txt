@@ -1,0 +1,7 @@
+D:\proyectos C#\recursividad3\recursividad3\bin\Debug\recursividad3.exe.config
+D:\proyectos C#\recursividad3\recursividad3\bin\Debug\recursividad3.exe
+D:\proyectos C#\recursividad3\recursividad3\bin\Debug\recursividad3.pdb
+D:\proyectos C#\recursividad3\recursividad3\obj\Debug\recursividad3.csprojAssemblyReference.cache
+D:\proyectos C#\recursividad3\recursividad3\obj\Debug\recursividad3.csproj.CoreCompileInputs.cache
+D:\proyectos C#\recursividad3\recursividad3\obj\Debug\recursividad3.exe
+D:\proyectos C#\recursividad3\recursividad3\obj\Debug\recursividad3.pdb
