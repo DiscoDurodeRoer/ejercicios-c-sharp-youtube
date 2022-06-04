@@ -1,0 +1,7 @@
+D:\proyectos C#\matrices_4\matrices_4\bin\Debug\matrices_4.exe.config
+D:\proyectos C#\matrices_4\matrices_4\bin\Debug\matrices_4.exe
+D:\proyectos C#\matrices_4\matrices_4\bin\Debug\matrices_4.pdb
+D:\proyectos C#\matrices_4\matrices_4\obj\Debug\matrices_4.csprojAssemblyReference.cache
+D:\proyectos C#\matrices_4\matrices_4\obj\Debug\matrices_4.csproj.CoreCompileInputs.cache
+D:\proyectos C#\matrices_4\matrices_4\obj\Debug\matrices_4.exe
+D:\proyectos C#\matrices_4\matrices_4\obj\Debug\matrices_4.pdb

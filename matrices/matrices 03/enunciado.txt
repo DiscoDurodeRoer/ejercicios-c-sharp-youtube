@@ -1,0 +1,7 @@
+3. Dada una matriz ya creada, pide una fila y suma sus valores.
+
+4. Dada una matriz ya creada, pide una columna y suma sus valores.
+
+5. Dada una matriz creada, suma los valores de la diagonal.
+
+6. Dada una matriz creada, suma los valores de la diagonal inversa.

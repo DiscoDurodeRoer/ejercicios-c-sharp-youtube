@@ -1,0 +1,3 @@
+2. Haz un tablero que contenga "x" y en la posicion 0,0 haya un "o".
+
+Con un menu con 5 opciones (derecha, izquierda, abajo, arriba, salir) podremos mover nuestro "o" por el tablero, siempre y cuando se pueda.

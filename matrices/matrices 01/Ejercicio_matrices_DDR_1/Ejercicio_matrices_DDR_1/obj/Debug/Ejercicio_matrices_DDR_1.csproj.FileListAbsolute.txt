@@ -1,0 +1,7 @@
+D:\proyectos C#\Ejercicio_matrices_DDR_1\Ejercicio_matrices_DDR_1\bin\Debug\Ejercicio_matrices_DDR_1.exe.config
+D:\proyectos C#\Ejercicio_matrices_DDR_1\Ejercicio_matrices_DDR_1\bin\Debug\Ejercicio_matrices_DDR_1.exe
+D:\proyectos C#\Ejercicio_matrices_DDR_1\Ejercicio_matrices_DDR_1\bin\Debug\Ejercicio_matrices_DDR_1.pdb
+D:\proyectos C#\Ejercicio_matrices_DDR_1\Ejercicio_matrices_DDR_1\obj\Debug\Ejercicio_matrices_DDR_1.csprojAssemblyReference.cache
+D:\proyectos C#\Ejercicio_matrices_DDR_1\Ejercicio_matrices_DDR_1\obj\Debug\Ejercicio_matrices_DDR_1.csproj.CoreCompileInputs.cache
+D:\proyectos C#\Ejercicio_matrices_DDR_1\Ejercicio_matrices_DDR_1\obj\Debug\Ejercicio_matrices_DDR_1.exe
+D:\proyectos C#\Ejercicio_matrices_DDR_1\Ejercicio_matrices_DDR_1\obj\Debug\Ejercicio_matrices_DDR_1.pdb

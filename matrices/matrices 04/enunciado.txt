@@ -1,0 +1,5 @@
+7. Realizaremos un pequeño buscaminas, con un tablero de 6x7 pondremos 5 minas en el tablero.
+
+Mostraremos posiciones sin explorar y elegiremos una posicion.
+
+Si en la posición hay una mina, el jugador pierde, si el jugador no elige una mina durante 5 turnos, el jugador gana.
