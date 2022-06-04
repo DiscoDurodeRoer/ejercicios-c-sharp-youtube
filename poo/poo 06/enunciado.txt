@@ -1,0 +1,7 @@
+6. Crea la clase ConexionAccess para conectar access y C#.
+
+Los métodos o funciones serán las siguientes:
+	- open(): Abre la base de datos.
+	- close(): Cierra la base de datos.
+	- executeQuery(string sql): Dataset : devuelve un dataset de la consulta.
+	- executeInstruction(string sql): bool : devuelve si se ejecuto o no la instruccion.

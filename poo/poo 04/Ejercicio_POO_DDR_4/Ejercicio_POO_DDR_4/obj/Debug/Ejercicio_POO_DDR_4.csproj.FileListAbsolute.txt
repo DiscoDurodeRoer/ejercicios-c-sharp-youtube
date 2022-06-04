@@ -1,0 +1,7 @@
+D:\proyectos C#\Ejercicio_POO_DDR_4\Ejercicio_POO_DDR_4\bin\Debug\Ejercicio_POO_DDR_4.exe.config
+D:\proyectos C#\Ejercicio_POO_DDR_4\Ejercicio_POO_DDR_4\bin\Debug\Ejercicio_POO_DDR_4.exe
+D:\proyectos C#\Ejercicio_POO_DDR_4\Ejercicio_POO_DDR_4\bin\Debug\Ejercicio_POO_DDR_4.pdb
+D:\proyectos C#\Ejercicio_POO_DDR_4\Ejercicio_POO_DDR_4\obj\Debug\Ejercicio_POO_DDR_4.csprojAssemblyReference.cache
+D:\proyectos C#\Ejercicio_POO_DDR_4\Ejercicio_POO_DDR_4\obj\Debug\Ejercicio_POO_DDR_4.csproj.CoreCompileInputs.cache
+D:\proyectos C#\Ejercicio_POO_DDR_4\Ejercicio_POO_DDR_4\obj\Debug\Ejercicio_POO_DDR_4.exe
+D:\proyectos C#\Ejercicio_POO_DDR_4\Ejercicio_POO_DDR_4\obj\Debug\Ejercicio_POO_DDR_4.pdb

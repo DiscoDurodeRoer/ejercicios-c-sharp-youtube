@@ -1,0 +1,7 @@
+D:\proyectos C#\POO2\POO2\bin\Debug\POO2.exe.config
+D:\proyectos C#\POO2\POO2\bin\Debug\POO2.exe
+D:\proyectos C#\POO2\POO2\bin\Debug\POO2.pdb
+D:\proyectos C#\POO2\POO2\obj\Debug\POO2.csprojAssemblyReference.cache
+D:\proyectos C#\POO2\POO2\obj\Debug\POO2.csproj.CoreCompileInputs.cache
+D:\proyectos C#\POO2\POO2\obj\Debug\POO2.exe
+D:\proyectos C#\POO2\POO2\obj\Debug\POO2.pdb

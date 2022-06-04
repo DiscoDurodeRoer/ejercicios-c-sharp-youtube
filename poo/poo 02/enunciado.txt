@@ -1,0 +1,4 @@
+2. Crea una clase Concesionario que gestione una serie de coches.
+
+Tendra un array de objetos coches (anterior ejercicio) 
+y un limite de coches.

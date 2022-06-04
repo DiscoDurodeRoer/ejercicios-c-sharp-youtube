@@ -1,0 +1,7 @@
+7. Crea una clase Vehiculo que sea la misma que la clase Coche que trabajamos en el 1º video.
+
+Crea dos clases hijas: Coche y Moto
+
+La clase Coche tendra un atributo airbag, sobrescribe el metodo precio, si tiene airbag el precio aumentara 200.
+
+La clase Moto tendra un atributo sidecar, sobrescribe el metodo precio, si tiene sidecar el precio aumentara 50.

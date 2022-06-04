@@ -1,0 +1,3 @@
+4. Usando la clase anterior de Aleatorios
+
+ - Generar un array de numeros no repetidos entre dos numeros

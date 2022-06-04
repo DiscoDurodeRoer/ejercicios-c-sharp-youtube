@@ -1,0 +1,7 @@
+D:\proyectos C#\POO5\POO5\bin\Debug\POO5.exe.config
+D:\proyectos C#\POO5\POO5\bin\Debug\POO5.exe
+D:\proyectos C#\POO5\POO5\bin\Debug\POO5.pdb
+D:\proyectos C#\POO5\POO5\obj\Debug\POO5.csprojAssemblyReference.cache
+D:\proyectos C#\POO5\POO5\obj\Debug\POO5.csproj.CoreCompileInputs.cache
+D:\proyectos C#\POO5\POO5\obj\Debug\POO5.exe
+D:\proyectos C#\POO5\POO5\obj\Debug\POO5.pdb

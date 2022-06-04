@@ -1,0 +1,8 @@
+3. Crea una clase Aleatorios
+
+Como atributo tendra un Random.
+
+Tendra los siguientes metodos:
+
+ - Generar un numero entre 2 numeros
+ - Generar un array de numeros entre dos numeros

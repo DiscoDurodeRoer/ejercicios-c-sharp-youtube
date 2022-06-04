@@ -1,0 +1,7 @@
+D:\proyectos C#\POO7\POO7\POO7\bin\Debug\POO7.exe.config
+D:\proyectos C#\POO7\POO7\POO7\bin\Debug\POO7.exe
+D:\proyectos C#\POO7\POO7\POO7\bin\Debug\POO7.pdb
+D:\proyectos C#\POO7\POO7\POO7\obj\Debug\POO7.csprojAssemblyReference.cache
+D:\proyectos C#\POO7\POO7\POO7\obj\Debug\POO7.csproj.CoreCompileInputs.cache
+D:\proyectos C#\POO7\POO7\POO7\obj\Debug\POO7.exe
+D:\proyectos C#\POO7\POO7\POO7\obj\Debug\POO7.pdb
