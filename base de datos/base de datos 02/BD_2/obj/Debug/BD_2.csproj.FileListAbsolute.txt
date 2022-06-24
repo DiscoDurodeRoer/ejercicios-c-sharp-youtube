@@ -1,0 +1,7 @@
+D:\proyectos C#\BD_2\BD_2\bin\Debug\BD_2.exe.config
+D:\proyectos C#\BD_2\BD_2\bin\Debug\BD_2.exe
+D:\proyectos C#\BD_2\BD_2\bin\Debug\BD_2.pdb
+D:\proyectos C#\BD_2\BD_2\obj\Debug\BD_2.csprojAssemblyReference.cache
+D:\proyectos C#\BD_2\BD_2\obj\Debug\BD_2.csproj.CoreCompileInputs.cache
+D:\proyectos C#\BD_2\BD_2\obj\Debug\BD_2.exe
+D:\proyectos C#\BD_2\BD_2\obj\Debug\BD_2.pdb
